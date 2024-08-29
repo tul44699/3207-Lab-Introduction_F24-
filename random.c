@@ -12,5 +12,7 @@ int main() {
     printf("%c", randchar());
   }
 
+  printf("\n");
+
   return 0;
 }
