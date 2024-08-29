@@ -1,7 +1,4 @@
 // Given Project code
-#include "print_random.h"
-#include "random.h"
-
 char *rand_string_alloc(size_t size) {
   char *s = malloc(size + 1);
   if (s) {
